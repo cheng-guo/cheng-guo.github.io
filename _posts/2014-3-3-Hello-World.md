@@ -1,10 +1,48 @@
 ---
 layout: post
-title: You're up and running!
+title: 伊特课堂YTKT
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+伊特课堂是垂直的互联网IT技能学习开放课堂。针对青少年为主面向各个年龄层的学员，采用短平快、理论与实践结合的教学方式，面向企业培养能力过硬的程序员、软件工程师为目标，以高质量的IT视频教程、社区问答、线上线下结合为特色。
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+# 课程包括：
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+   ## 软件开发的核心基础课程
+      
+      * 数据结构与算法：数据结构与算法是程序员的九阳神功，也是国内外如美国硅谷企业(google,twitter,facebook等)、国内企业如BAT(百度，阿里巴巴、腾讯等)面试软件工程师的主要面试内容。该能力直接反映了一个程序员或软件工程师的软件开发内功是否深厚。
+      
+      * 主流编程语言：排名前四的编程语言 C,Java，C++, Python 垄断编程语言江湖很多年。
+
+   ## 应用导向的课程：
+
+       * Web开发课程：Web前端技术、Web后端技术
+
+       * 手机开发课程： Android开发、OIS开发
+
+       * 图像处理课程： OpenCV图像处理
+
+       * 图形游戏开发课程： OpenGL教程、游戏编程、游戏场景制作
+
+       * 云计算与大数据： 
+
+       * 人工智能： 机器学习、深度学习
+      
+
+# 灵活定制的学习计划：
+
+   在核心基础课程的学习基础上，不同学生可以根据自己的职业兴趣选择相应的课程，如从事网站开发可以单独选WEb开发前端或选WEb开发后端或成为前后端都精通的所谓Web全栈工程师。如果想从事人工智能研发的可以单独选择人工智能课程。
+
+# 互帮互助的问答社区
+
+   论坛为主、QQ等为辅的学员之间、学员教师之间的问答交流，克服自学的缺陷。
+
+# 教育特点
+
+   * 无废话、快速速成教学法
+
+   * 高质量教学视频，辅助动画趣味性
+
+   * 直面企业需求的教学内容和实战演练。
+
+
+报名QQ群：659525413
